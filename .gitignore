@@ -1,0 +1,5 @@
+build/
+*.txt
+
+# build/ tells git to ignore everything in the build sub-directory
+# *.txt tells git to ignore all files ending with txt.
